@@ -1,21 +1,13 @@
 # Day Planner
 
-## {{title}}
+## {{tp_title}}
 
-### Overdue Tasks
+### Assigned Today
 ```dataview
 table dueDate, project
 from "tasks"
-where date(today) > dueDate
-sort due asc
-```
-
-### Up Next
-```dataview
-table dueDate, project
-from "tasks"
-where date(today) <= dueDate
-sort due asc
+where assignedDate = date({{tp_title}})
+sort dueDate asc
 ```
 
 ### Routine

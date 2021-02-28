@@ -3,7 +3,8 @@
 table dueDate, project
 from "tasks"
 where date(today) > dueDate
-sort due asc
+and (completed = "" or completed = "N")
+sort dueDate asc
 ```
 
 
@@ -13,30 +14,14 @@ sort due asc
 table dueDate, project
 from "tasks"
 where date(today) <= dueDate
-sort due asc
+and (completed = "" or completed = "N")
+sort dueDate asc
 ```
 
 
-# Projects
+# Active Projects
 ```dataview
-table
+table dueDate
 from "PARA/001_projects"
-where completed = "N"
-```
-
-
-
-# Project Tasks
-
-```dataview
-table due, project
-from "tasks"
-where project = "a"
-sort due asc
-```
-
-
-
-```query
-path:tasks and project:
+where (completed = "N" or completed = "")
 ```

@@ -1,13 +1,13 @@
 ---
 name: {{tp_title}}
-project: none
+project: to_assign
 dueDate: {{tp_tomorrow}}
 assignedDate: {{tp_date}}
 completed: N
 tags:
-  - #task/{{tp_title}}
+  - #project/task/{{tp_title}}
 ---
 
-# {{tp_title}}
+# Project task - {{tp_title}}
 
 Task information here..
