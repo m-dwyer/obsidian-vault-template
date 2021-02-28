@@ -73,3 +73,5 @@ If I do not wish to undertake a particularly task for this week, I just leave it
 ### Daily Workflow
 
 Click today's date in the calendar.  Any tasks assigned to today should show in the table.  From here, I will list each task under the Task Times heading with a time.  This will allow me to use the Day Planner to track my progress throughout the day.
+
+The Inbox is basically a scratch pad of sorts, and taken from Getting Things Done.  I will quickly capture items here throughout the day.  At regular intervals, I will look at each item and decide if it should be logged as a task, filed as a note under Resources, or whether some other action needs to be taken.
