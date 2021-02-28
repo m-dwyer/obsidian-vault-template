@@ -77,3 +77,8 @@ Click today's date in the calendar.  Any tasks assigned to today should show in 
 From here, I will list each task shown under Assigned Today under the Daily Planner heading with a time.  This will allow me to use the Day Planner to track my progress throughout the day.  As the day progresses, I will mark off a task if completed.  Also remember to update the completed flag in the task so it no longer appears!
 
 The Inbox is basically a scratch pad of sorts, and taken from Getting Things Done.  I will quickly capture items here throughout the day.  At regular intervals, I will look at each item and decide if it should be logged as a task, filed as a note under Resources, or whether some other action needs to be taken.
+
+
+### Recurring todo items / tasks
+
+There are templates in _templates/recurring for setting todo items that are recurring on a daily or weekly basis.  Whether you have chores, routines or other items, add them to the applicable list and it will be included in each day or week note.

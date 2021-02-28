@@ -24,7 +24,7 @@ sort dueDate asc
 ## Weekly planner
 
 ### Recurring Tasks
-- [ ] 
+{{tp_include:f=_templates/recurring/weekly}}
 
 ### Assigned tasks
 

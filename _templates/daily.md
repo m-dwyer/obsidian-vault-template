@@ -11,7 +11,7 @@ sort dueDate asc
 ```
 
 ### Routine
-- [ ] 
+{{tp_include:f=_templates/recurring/daily}}
 
 
 ### Day Planner
