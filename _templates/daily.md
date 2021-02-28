@@ -1,4 +1,4 @@
-# Day Planner
+# My Day
 
 ## {{tp_title}}
 
@@ -14,5 +14,5 @@ sort dueDate asc
 - [ ] 
 
 
-### Task Times
+### Day Planner
 - [ ] 

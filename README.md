@@ -66,12 +66,14 @@ If you create a project task, be sure to link it to the project in the frontmatt
 
 Once you have planned out any projects & tasks you wish to undertake, you can create a weekly agenda by selecting the week number via the calendar side pane.  This will create a new week note under the weeks folder.
 
-When opening up the week, Available Tasks heading will show any incomplete task not yet assigned a date.  From here, I will pick and choose tasks and set an assignedDate accordingly for each, at which point they will be visible for the week under the Assigned Tasks heading.
+When opening up the week, the Available Tasks heading will show any incomplete task not yet assigned a date.  From here, I will pick and choose tasks and set an assignedDate accordingly for each, at which point they will be visible for the week under the Assigned Tasks heading.
 
 If I do not wish to undertake a particularly task for this week, I just leave it unassigned, so the task will be visible in future weekly agendas.
 
 ### Daily Workflow
 
-Click today's date in the calendar.  Any tasks assigned to today should show in the table.  From here, I will list each task under the Task Times heading with a time.  This will allow me to use the Day Planner to track my progress throughout the day.
+Click today's date in the calendar.  Any tasks assigned to today should show in the table.  Select 'Day Planner: Link today's Day Planner to the current note' within the command palette.
+
+From here, I will list each task shown under Assigned Today under the Daily Planner heading with a time.  This will allow me to use the Day Planner to track my progress throughout the day.  As the day progresses, I will mark off a task if completed.  Also remember to update the completed flag in the task so it no longer appears!
 
 The Inbox is basically a scratch pad of sorts, and taken from Getting Things Done.  I will quickly capture items here throughout the day.  At regular intervals, I will look at each item and decide if it should be logged as a task, filed as a note under Resources, or whether some other action needs to be taken.
