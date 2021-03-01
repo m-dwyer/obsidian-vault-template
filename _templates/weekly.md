@@ -1,11 +1,11 @@
 ---
 aliases:
-  - {{tp_title}}
+  - weekly
 tags:
-  - week/{{tp_title}}
+  - week/weekly
 ---
 
-# {{tp_title}}
+# weekly
 
 ## Tasks available
 
@@ -24,7 +24,8 @@ sort dueDate asc
 ## Weekly planner
 
 ### Recurring Tasks
-{{tp_include:f=_templates/recurring/weekly}}
+- [ ] 
+- [ ] 
 
 ### Assigned tasks
 
