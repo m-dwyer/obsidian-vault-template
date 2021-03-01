@@ -5,7 +5,7 @@ dueDate: {{tp_tomorrow}}
 assignedDate: {{tp_date}}
 completed: N
 tags:
-  - #task/{{tp_title}}
+  - task/{{tp_title}}
 ---
 
 # {{tp_title}}

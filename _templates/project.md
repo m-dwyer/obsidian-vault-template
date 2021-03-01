@@ -3,7 +3,7 @@ name: {{tp_title}}
 dueDate: {{tp_tomorrow}}
 completed: N
 tags:
-  - #project/{{tp_title}}
+  - project/{{tp_title}}
 ---
 
 # {{tp_title}}
