@@ -1,7 +1,7 @@
-# obsidian-vault-template
+# [UNMAINTAINED] obsidian-vault-template
 
 ## Overview
-**DEPRECATED -- I am on longer maintaining this repository, as I joined the dark side (org-mode) for now, but pull requests very welcome**
+**UNMAINTAINED -- I am on longer maintaining this repository, as I joined the dark side (org-mode) for now, but pull requests very welcome**
 
 A template used to create a new vault.  An attempt to move away from Notion to Obsidian.
 
