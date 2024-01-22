@@ -32,6 +32,8 @@ function template_matcher(tp) {
             break;
         }
     }
+
+    return ""
 }
 
 module.exports = template_matcher

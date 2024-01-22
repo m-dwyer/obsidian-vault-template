@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "_utility/templates/"
+      "template": "_utility/templates/Matcher.md"
     }
   ],
   "syntax_highlighting": true,
