@@ -11,8 +11,12 @@
             "id": "f5ea77c6c010d800",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_utility/templates/Weekly.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_utility/templates/Weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_utility/templates/Weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "_utility/templates/Weekly.md"
+              }
+            }
+          },
+          {
+            "id": "d437807bc571f94c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -135,21 +151,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7bc5733d5c0e764f",
+  "active": "f5ea77c6c010d800",
   "lastOpenFiles": [
-    "Tasks/Projects",
-    "Tasks",
-    "Review/Goals",
-    "Review/Yearly",
-    "Review/Quarterly",
-    "Review/Weekly",
-    "Review/Monthly",
-    "Review/Daily",
-    "Daily",
-    "Review",
-    "Resources"
+    "_utility/templates/Yearly.md",
+    "_utility/templates/Matcher.md",
+    "_utility/templates/Weekly.md",
+    "_utility/templates/Quarterly.md",
+    "_utility/templates/Monthly.md",
+    "_utility/templates/Daily.md",
+    "_utility/templates",
+    "_utility/scripts/templater/template_matcher.js",
+    "_utility/scripts/templater/period_defaults.js",
+    "_utility/scripts/templater/note_timeframe_periods_nav.js",
+    "_utility/scripts/templater/note_previous_next_period_nav.js",
+    "_utility/scripts/templater/note_period_nav.js",
+    "_utility/scripts/dataview",
+    "_utility/scripts/templater",
+    "_utility/scripts",
+    "Tasks/Projects"
   ]
 }
