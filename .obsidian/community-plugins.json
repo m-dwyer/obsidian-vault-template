@@ -1,5 +1,7 @@
 [
   "periodic-notes",
   "templater-obsidian",
-  "calendar"
+  "calendar",
+  "dataview",
+  "quickadd"
 ]
