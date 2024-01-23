@@ -4,5 +4,6 @@
   "calendar",
   "dataview",
   "quickadd",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-view-mode-by-frontmatter"
 ]

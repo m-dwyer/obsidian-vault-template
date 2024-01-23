@@ -1,6 +1,9 @@
 ---
 cssclasses:
+  - hide-frontmatter
   - cards
+obsidianUIMode: preview
+obsidianEditingMode: live
 ---
 
 ```dataviewjs
@@ -10,7 +13,7 @@ let defaultCover = app.vault.getResourcePath(dv.fileLink("assets/covers/project.
 
 const defaultProgress = '<progress value="0" max="100"></progress><br>0% completed'
 
-await dv.table(["Cover", "Project", "Progress", "Goal", "Area"],
+await dv.table(null,
 		projects.map(project => [
 			`<div style="position: relative; overflow: hidden; width: 200%; height: 200px;"><img style="object-fit: cover; object-position: center; width: 100%; height: 100%;" src="${project.cover ? app.vault.getResourcePath(dv.fileLink(project.cover)) : defaultCover}" /></div>`,
 			`<span style="font-size: 1.2em">${project.file.link}</span>`,
@@ -19,4 +22,3 @@ await dv.table(["Cover", "Project", "Progress", "Goal", "Area"],
 			`<span>Area: ${project.goal ? dv.page(project.goal)?.area || "" : ""}</span>`
 			]));
 ```
-

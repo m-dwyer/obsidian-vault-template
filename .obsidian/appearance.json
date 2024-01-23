@@ -1,6 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "cards"
+    "cards",
+    "MCL Gallery Cards",
+    "HideYMF",
+    "HideFrontmatter",
+    "hide-frontmatter"
   ]
 }
