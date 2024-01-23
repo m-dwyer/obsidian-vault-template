@@ -3,5 +3,6 @@
   "templater-obsidian",
   "calendar",
   "dataview",
-  "quickadd"
+  "quickadd",
+  "obsidian-tasks-plugin"
 ]

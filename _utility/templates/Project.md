@@ -8,3 +8,13 @@ progress: "`$= await dv.view('project-progress', {file: '<% tp.file.title %>'})`
 ```dataviewjs
 console.log(app.plugins.plugins["templater-obsidian"].settings)
 ```
+
+# Overview
+
+>[!tip]+
+>Include a description of the project containing what the project sets out to achieve and scope
+
+
+# Tasks
+
+- [ ] TODO 
