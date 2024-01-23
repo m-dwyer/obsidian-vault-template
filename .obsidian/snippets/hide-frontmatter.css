@@ -1,3 +1,9 @@
 .hide-frontmatter .metadata-container {
     display: none !important;
 }
+
+
+/* Hide calculated properties that we use elsewhere */
+.hide-prop .metadata-property:has(input[aria-label="progress"]) {
+    display: none;
+}
