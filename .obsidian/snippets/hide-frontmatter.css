@@ -7,3 +7,7 @@
 .hide-prop .metadata-property:has(input[aria-label="progress"]) {
     display: none;
 }
+
+.hide-prop .metadata-property:has(input[aria-label="banner_y"]) {
+    display:none
+}

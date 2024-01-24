@@ -1,7 +1,7 @@
 ---
 tags:
   - goal
-Area: "[[<%* const dv = this.app.plugins.plugins["dataview"].api; const areas = dv.pages('"Areas"').file.sort(n => n.name); let suggestions = areas.name; let values = areas.name; tR += await tp.system.suggester(suggestions, values); %>]]"
+Area: "[[<%* const dv = this.app.plugins.plugins["dataview"].api; const areas = dv.pages('"Areas"').file.sort(n => n.name); let suggestions = areas.name; let values = areas.name; tR += await tp.system.suggester(suggestions, values) || ""; %>]]"
 Deadline: <% tp.date.now("YYYY-MM-DD", "P1Y") %>
 ---
 
