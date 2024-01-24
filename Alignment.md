@@ -3,7 +3,6 @@ banner: "![[alignment_dash.jpg]]"
 banner_y: 0.388
 obsidianUIMode: preview
 obsidianEditingMode: live
-foo: bar
 ---
 # Areas
 
