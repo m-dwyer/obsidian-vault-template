@@ -1,6 +1,41 @@
 {
   "choices": [
     {
+      "id": "66c193ed-dba1-42fa-bb36-83f1a2441a66",
+      "name": "Add Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Tasks/Next actions.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] TODO {{VALUE:task name}} ⏳ {{VDATE:scheduled date, YYYY-MM-DD}} 🔼  📅 {{VDATE:due date, YYYY-MM-DD}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "# Tasks",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "61c95e71-5a7f-4d9b-9e60-3b190a1e74e4",
       "name": "Planning > Add Area",
       "type": "Template",

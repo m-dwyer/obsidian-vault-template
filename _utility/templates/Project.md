@@ -6,9 +6,6 @@ cover: assets/shared/covers/project.jpg
 progress: "`$= await dv.view('project-progress', {file: '<% tp.file.title %>'})`"
 ---
 `= this.progress`
-```dataviewjs
-console.log(app.plugins.plugins["templater-obsidian"].settings)
-```
 
 # Overview
 
