@@ -1,3 +1,5 @@
+Areas/**/*.md
 Review/**/*.md
 Pages/**/*.md
 Tasks/Projects/**/*.md
+.DS_Store
